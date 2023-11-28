@@ -5,7 +5,8 @@ myenv/
 __pycache__/
 *.py[cod]
 
-# Ignore specific files or directories
-some_directory/
-some_file.txt
+# Ignore data files
+*.csv
+*.xslx
+
 
