@@ -1,0 +1,11 @@
+# Ignore virtual environment
+myenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Ignore specific files or directories
+some_directory/
+some_file.txt
+
